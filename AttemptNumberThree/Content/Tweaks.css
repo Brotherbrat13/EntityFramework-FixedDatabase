@@ -1,0 +1,39 @@
+﻿#navigation{
+    background-color: white;
+    border:none;
+}
+#blue{
+    background-color: #133253;
+}
+
+.lead{
+    text-align:center;
+    margin-top: 30px;
+}
+footer{
+    background-color: #202020;
+    height: 100px;
+    width: 83.45%;
+    position: absolute;  
+    margin:0;
+    color: white;
+    text-align:right;
+    background-image: url("~/Images/grey.png");
+    background-position:left;
+    background-repeat:no-repeat;
+    background-size: 100px 100px;
+}
+html{
+    overflow: hidden;
+}
+.col-md-4{
+    color:white;
+}
+.col-md-4 p{
+    text-align: justify;
+}
+
+.triforce{
+    width:350px;
+    height:300px;
+}
